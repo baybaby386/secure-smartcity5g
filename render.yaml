@@ -1,0 +1,7 @@
+
+services:
+  - type: web
+    name: smart-city-streamlit
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run SmartCityDashboard.py --server.port=10000 --server.enableCORS=false
