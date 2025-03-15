@@ -1,0 +1,34 @@
+﻿-----------------------------------------------------------------------------------------------------------
+Title:DDOS Real time detection 
+
+-----------------------------------------------------------------------------------------------------------
+
+Most Importance 
+os : 
+Windows 10
+RAM : 
+8 GB RAM system 
+
+-----------------------------------------------------------------------------------------------------------
+Requirements: Spyder-Python(3.11) 
+Anaconda link: 
+https://www.anaconda.com/download?utm_source=anacondadoc&utm_medium=documentation&utm_campaign=download&utm_content=topnavalldocs
+
+Package : 
+ pip install tensorflow 
+
+ pip install Keras
+
+ pip install Streamlit 
+-----------------------------------------------------------------------------------------------------------
+1. Open SourceCode Folder  
+
+2. anaconda -spyder run Main.py 
+
+3.anaconda -streamlit run app.py 
+or 
+python -m streamlit run app.py  
+
+
+
+
